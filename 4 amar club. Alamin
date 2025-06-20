@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alamin 4x AmarClub</title>
+  <style>
+    body {
+      margin: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 50vh 50vh;
+      height: 100vh;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://amarclub.work/#/register?invitationCode=27466111164"></iframe>
+  <iframe src="https://amarclub.work/#/register?invitationCode=27466111164"></iframe>
+  <iframe src="https://amarclub.work/#/register?invitationCode=27466111164"></iframe>
+  <iframe src="https://amarclub.work/#/register?invitationCode=27466111164"></iframe>
+</body>
+</html>
